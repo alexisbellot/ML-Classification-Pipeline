@@ -6,4 +6,9 @@ This repository contains is a python implementation of simple pipeline to test a
 
 
 ## Dependencies
-Sklearn package that includes the suite of algorithms and performance metrics.
+The Sklearn package that includes the suite of algorithms and performance metrics.
+
+## First steps
+The python notebook is self contained and will guide you through the whole pipeline.
+
+If you have questions or comments about anything regarding this work, please do not hesitate to contact [Alexis](https://alexisbellot.github.io/Website/)
